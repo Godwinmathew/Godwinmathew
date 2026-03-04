@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Godwin Mathew
 
-<!--
-**Godwinmathew/Godwinmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Aspiring Data Analyst / Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- Python
+- C
+- C++
+- VB.NET
+- Data Analysis
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 VB.NET Calculator
+Simple calculator built using Windows Forms.
+
+### 🔹 C Student Record System
+Menu-driven program using structures and file handling.
+
+### 🔹 C++ Library Management System
+Console application using OOP and file handling.
+
+### 🔹 Python Student Marks Analyzer
+Data analysis project using Python and Pandas.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godwinmathew&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn (coming soon)
